@@ -30,7 +30,7 @@ This is the outline for the course:<br>
 ## List of Papers
 
 | Paper | |
-| ------------- |:-------------|
+| ------------- | ------------- |:-------------|
 |[Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/abs/1502.05767)|[Download](https://github.com/yoooooo2020/2023-Big-Data-Driven-Artificial-Intelligence/raw/main/PPT/1.%20Introduction.pptx.zip)|[Code](https://paperswithcode.com/paper/automatic-differentiation-in-machine-learning)|
 |[Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs](https://arxiv.org/abs/2004.07300)|[Code](https://github.com/bnusss/GSO)|
 | [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144) | [Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel) |
