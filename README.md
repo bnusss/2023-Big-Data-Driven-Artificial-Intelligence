@@ -31,11 +31,11 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 
 ## List of Books
 
-  + 《Theory of Self-Reproducing Automata》https://wiki.swarma.org/index.php/自复制自动机理论_Theory_of_Self-reproducing_Automata;<br>
-  + 《皇帝的新脑》http://product.dangdang.com/25235097.html;<br>
-  + 《人工智能的未来》http://product.dangdang.com/11356627676.html;<br>
-  + 《为什么：关于因果关系的新科学》http://product.dangdang.com/27890880.html;<br>
-  + 《深度学习原理与PyTorch实战（第2版）》http://product.dangdang.com/29396811.html;<br>
-  + 《深度学习(deep learning)》http://product.dangdang.com/25111382.html;<br>
-  + 《The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition》http://product.dangdang.com/27440239.html;<br>
+  + 《Theory of Self-Reproducing Automata》,John von Neumann,https://wiki.swarma.org/index.php/自复制自动机理论_Theory_of_Self-reproducing_Automata;<br>
+  + 《皇帝的新脑》,Roger Penrose,http://product.dangdang.com/25235097.html;<br>
+  + 《人工智能的未来》,Jeff Hawkins,Sandra Blakeslee,http://product.dangdang.com/11356627676.html;<br>
+  + 《为什么：关于因果关系的新科学》,Judea Pearl,http://product.dangdang.com/27890880.html;<br>
+  + 《深度学习原理与PyTorch实战（第2版）》,集智俱乐部 ,http://product.dangdang.com/29396811.html;<br>
+  + 《深度学习(deep learning)》,Ian Goodfellow,Yoshua Bengio,Aaron Courville,http://product.dangdang.com/25111382.html;<br>
+  + 《The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition》,Trevor Hastie,Robert Tibshirani,Jerome Friedman,http://product.dangdang.com/27440239.html;<br>
 
