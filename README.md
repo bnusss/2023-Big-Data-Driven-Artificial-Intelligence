@@ -31,7 +31,7 @@ This is the outline for the course:<br>
 
 | Paper | |
 | ------------- |:-------------|
-|[Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/abs/1502.05767)|[Code](https://github.com/spmallick/learnopencv/tree/master/Vision_Transformer_PyTorch)|
-|[Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs](https://arxiv.org/abs/2004.07300)|[Code](https://github.com/spmallick/learnopencv/tree/master/Attention_Mechanism_Introduction)|
-| [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144) | [Code](https://github.com/spmallick/learnopencv/tree/master/Deploying-a-Deep-Learning-Model-using-Hugging-Face-Spaces-and-Gradio) |
+|[Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/abs/1502.05767)|[Code](https://paperswithcode.com/paper/automatic-differentiation-in-machine-learning)|
+|[Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs](https://arxiv.org/abs/2004.07300)|[Code](https://github.com/bnusss/GSO)|
+| [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144) | [Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel) |
 
