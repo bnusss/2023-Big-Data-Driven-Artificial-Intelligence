@@ -28,7 +28,6 @@ This is the source code and materials for *Big Data Driven Artificial Intelligen
   + 《人工智能的未来》http://product.dangdang.com/11356627676.html;<br>
   + 《为什么：关于因果关系的新科学》http://product.dangdang.com/27890880.html;<br>
   + 《The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition》http://product.dangdang.com/27440239.html;<br>
-  http://product.dangdang.com/27440239.html
   + 《深度学习原理与PyTorch实战（第2版）》http://product.dangdang.com/29396811.html;<br>
   + 《深度学习》http://product.dangdang.com/25111382.html;<br>
   + 《统计学习原理》;<br>
