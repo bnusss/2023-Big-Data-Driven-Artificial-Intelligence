@@ -11,7 +11,7 @@ This is the outline for the course:
 **Lecture-04:**<br>
   + Common Neural Network Architectures;<br>
 **Lecture-05:**<br>
-  + Theory of Representation Learning;<br><br>
+  + Theory of Representation Learning;<br>
 **Lecture-06:**
   + From Deep Neural Networks to Neural ODE;<br>
 **Lecture-07:**<br>
