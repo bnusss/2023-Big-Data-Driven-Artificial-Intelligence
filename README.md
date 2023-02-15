@@ -13,4 +13,3 @@ This is the outline for the course:
 + Lesson-10: From Transformer to ChatGPT;
 + Lesson-11: Causal Machine Learning;
 + Lesson-12: Reinforcement Learning;
-
