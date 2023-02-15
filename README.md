@@ -1,5 +1,6 @@
 # 2023-Big-Data-Driven-Artificial-Intelligence
 This is the source code and materials for *Big Data Driven Artificial Intelligence* course in BNU, 2023 Spring.<br>
+<br>
 This course comprehensively introduces the latest developments in *Big Data Driven Artificial Intelligence*, including but not limited to *neural networks*, *deep learning*, *reinforcement learning*, *causal inference*, *generative models*, *language models*, and *AI for scientific discovery*. 
 
 ## Outline
