@@ -29,7 +29,7 @@ This is the outline for the course:<br>
 
 ## List of Blog Posts
 
-| Blog Post | |
+| Paper | |
 | ------------- |:-------------|
 |[The Future of Image Recognition is Here: PyTorch Vision Transformer](https://learnopencv.com/the-future-of-image-recognition-is-here-pytorch-vision-transformer/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Vision_Transformer_PyTorch)|
 |[Understanding Attention Mechanism in Transformer Neural Networks](https://learnopencv.com/attention-mechanism-in-transformer-neural-networks/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Attention_Mechanism_Introduction)|
