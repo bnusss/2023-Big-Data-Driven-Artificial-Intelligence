@@ -7,7 +7,7 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 
 #### Lecture-01: Introduction to Big Data and Artificial Intelligence;<br>
 +  Providing an overview of the history and different schools of Artificial Intelligence.
-+  Covering the latest advancements in big data-driven AI technologies. 
++  Covering the latest advancements in big data driven AI technologies. 
 +  Illustrating real-world applications such as ChatGPT and protein folding prediction.
 #### Lecture-02: Automatic Differentiation and PyTorch Programming;<br>
 +  Introducing automatic differentiation technique and its application scenarios.
