@@ -59,9 +59,9 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Self-supervised learning mechanism based on language models.
 +  Introduction to architectures such as BERT, GPT-3, and ChatGPT.
 #### Lecture-11: Causal Machine Learning;<br>
-+  Causation and Correlation;
-+  Introduction to Causal Inference;
-+  Introduction to Causal Discovery;
++  Causation and Correlation.
++  Introduction to Causal Inference.
++  Introduction to Causal Discovery.
 +  Causal Representation Learning.
 #### Lecture-12: Reinforcement Learning;<br>
 +  Basic framework of reinforcement learning.
