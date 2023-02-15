@@ -2,6 +2,7 @@
 This is the source code and materials for *Big Data Driven Artificial Intelligence* course in BNU, 2023 Spring.
 
 This is the outline for the course:<br>
+
 **Lecture-01:**<br>
   + Introduction to Big Data and Artificial Intelligence;<br>
 **Lecture-02:**<br>
