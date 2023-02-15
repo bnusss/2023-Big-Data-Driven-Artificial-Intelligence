@@ -20,9 +20,9 @@ This is the source code and materials for *Big Data Driven Artificial Intelligen
 | Paper | |
 | ------------- |:-------------|
 |[Machine intelligence, Nature 521, 435 (28 May 2015)](https://www.nature.com/articles/521435a)|[Code]
-(&nbsp;)|
+&nbsp;|
 |[Prediction and its limits,SCIENCE,3 Feb 2017,Vol 355,Issue 6324 pp. 468-469](https://www.science.org/doi/10.1126/science.355.6324.468)|[Code]
-(&nbsp;)|
+&nbsp;|
 |[Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/abs/1502.05767)|[Code](https://paperswithcode.com/paper/automatic-differentiation-in-machine-learning)|
 |[Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs](https://arxiv.org/abs/2004.07300)|[Code](https://github.com/bnusss/GSO)|
 | [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144) | [Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel) |
