@@ -1,7 +1,8 @@
 # 2023-Big-Data-Driven-Artificial-Intelligence
 This is the source code and materials for *Big Data Driven Artificial Intelligence* course in BNU, 2023 Spring.
 
-## Outline:<br>
+## Outline
+
   + Lecture-01: Introduction to Big Data and Artificial Intelligence;<br>
   + Lecture-02: Automatic Differentiation and PyTorch Programming;<br>
   + Lecture-03: Fundamentals of Machine Learning;<br>
@@ -26,7 +27,8 @@ This is the source code and materials for *Big Data Driven Artificial Intelligen
 |[Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs](https://arxiv.org/abs/2004.07300)|[Code](https://github.com/bnusss/GSO)|
 | [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144) | [Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel) |
 
-## List of books:<br>
+## List of books
+
   + 《Theory of Self-Reproducing Automata》https://wiki.swarma.org/index.php/自复制自动机理论_Theory_of_Self-reproducing_Automata;<br>
   + 《皇帝的新脑》http://product.dangdang.com/25235097.html;<br>
   + 《人工智能的未来》http://product.dangdang.com/11356627676.html;<br>
