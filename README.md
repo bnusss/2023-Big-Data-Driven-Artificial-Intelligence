@@ -19,11 +19,19 @@ This is the source code and materials for *Big Data Driven Artificial Intelligen
 
 | Paper | |
 | ------------- |:-------------|
+
+|[Machine intelligence, Nature 521, 435 (28 May 2015)](https://www.nature.com/articles/521435a)|[Code](&nbsp;)|
+|[Prediction and its limits,SCIENCE 3 Feb 2017 Vol 355, Issue 6324 pp. 468-469
+](https://www.science.org/doi/10.1126/science.355.6324.468)|[Code](&nbsp;)|
+
+
+
 |[Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/abs/1502.05767)|[Code](https://paperswithcode.com/paper/automatic-differentiation-in-machine-learning)|
 |[Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs](https://arxiv.org/abs/2004.07300)|[Code](https://github.com/bnusss/GSO)|
 | [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144) | [Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel) |
 
 ## List of books:<br>
+  + 《Theory of Self-Reproducing Automata》https://wiki.swarma.org/index.php/自复制自动机理论_Theory_of_Self-reproducing_Automata;<br>
   + 《皇帝的新脑》http://product.dangdang.com/25235097.html;<br>
   + 《人工智能的未来》http://product.dangdang.com/11356627676.html;<br>
   + 《为什么：关于因果关系的新科学》http://product.dangdang.com/27890880.html;<br>
