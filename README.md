@@ -9,9 +9,9 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Providing an overview of the history and different schools of Artificial Intelligence.
 +  Covering the latest advancements in big data driven AI technologies. 
 +  Illustrating real-world applications such as ChatGPT and protein folding prediction.
-+  Machine intelligence, Nature 521, 435 (28 May 2015)&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.nature.com/articles/521435a)&nbsp;&nbsp;|
-+  Prediction and its limits, SCIENCE, 3 Feb 2017, Vol 355, Issue 6324 pp. 468-469&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.science.org/doi/10.1126/science.355.6324.468)&nbsp;&nbsp;|
-+  AI TRANSFORMS SCIENCE, SCIENCE, VOLUME 357, ISSUE 6346, 7 JUL 2017&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.science.org/toc/science/357/6346)&nbsp;&nbsp;|
++  Machine intelligence, Nature 521, 435 (28 May 2015).&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.nature.com/articles/521435a)&nbsp;&nbsp;|
++  Prediction and its limits, SCIENCE, 3 Feb 2017, Vol 355, Issue 6324 pp. 468-469.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.science.org/doi/10.1126/science.355.6324.468)&nbsp;&nbsp;|
++  AI TRANSFORMS SCIENCE, SCIENCE, VOLUME 357, ISSUE 6346, 7 JUL 2017.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.science.org/toc/science/357/6346)&nbsp;&nbsp;|
 + 《皇帝的新脑》, Roger Penrose ;<br>
 + 《人工智能的未来》, Jeff Hawkins ;<br>
 + 《为什么：关于因果关系的新科学》, 朱迪亚·珀尔 / 达纳·麦肯齐 ;<br>
@@ -19,9 +19,9 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Introducing automatic differentiation technique and its application scenarios.
 +  Introducing the PyTorch automatic differentiation programming platform.
 +  Providing an example of using PyTorch.
-+  Automatic Differentiation in Machine Learning: a Survey&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1502.05767) &nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/automatic-differentiation-in-machine-learning)&nbsp;&nbsp;|
-+  Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2004.07300)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/GSO)&nbsp;&nbsp;|
-+  Categorical Reparameterization with Gumbel-Softmax&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1611.01144)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel)&nbsp;&nbsp;|
++  Automatic Differentiation in Machine Learning: a Survey.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1502.05767) &nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/automatic-differentiation-in-machine-learning)&nbsp;&nbsp;|
++  Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2004.07300)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/GSO)&nbsp;&nbsp;|
++  Categorical Reparameterization with Gumbel-Softmax.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1611.01144)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel)&nbsp;&nbsp;|
 #### Lecture-03: Fundamentals of Machine Learning;<br>
 +  What is machine learning and what are its simple classifications? 
 +  What are the basic steps of machine learning? 
