@@ -10,7 +10,7 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Covering the latest advancements in big data driven AI technologies. 
 +  Illustrating real-world applications such as ChatGPT and protein folding prediction.
 + 《皇帝的新脑》, Roger Penrose ;<br>
-+ 《人工智能的未来》,Jeff Hawkins ;<br>
++ 《人工智能的未来》, Jeff Hawkins ;<br>
 + 《为什么：关于因果关系的新科学》, 朱迪亚·珀尔 / 达纳·麦肯齐 ;<br>
 #### Lecture-02: Automatic Differentiation and PyTorch Programming;<br>
 +  Introducing automatic differentiation technique and its application scenarios.
