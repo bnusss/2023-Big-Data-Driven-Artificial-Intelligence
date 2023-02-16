@@ -20,9 +20,10 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Introducing automatic differentiation technique and its application scenarios.
 +  Introducing the PyTorch automatic differentiation programming platform.
 +  Providing an example of using PyTorch.
-+  *Automatic Differentiation in Machine Learning: a Survey.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1502.05767) &nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/automatic-differentiation-in-machine-learning)&nbsp;&nbsp;|
-+  *Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2004.07300)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/GSO)&nbsp;&nbsp;|
-+  *Categorical Reparameterization with Gumbel-Softmax.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1611.01144)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel)&nbsp;&nbsp;|
++  References<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-*Automatic Differentiation in Machine Learning: a Survey.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1502.05767) &nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/automatic-differentiation-in-machine-learning)&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-*Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2004.07300)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/GSO)&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-*Categorical Reparameterization with Gumbel-Softmax.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1611.01144)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel)&nbsp;&nbsp;|<br>
 #### Lecture-03: Fundamentals of Machine Learning;<br>
 +  What is machine learning and what are its simple classifications? 
 +  What are the basic steps of machine learning? 
