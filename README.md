@@ -9,9 +9,9 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Providing an overview of the history and different schools of Artificial Intelligence.
 +  Covering the latest advancements in big data driven AI technologies. 
 +  Illustrating real-world applications such as ChatGPT and protein folding prediction.
-+ 《皇帝的新脑》, Roger Penrose;<br>
-+ 《人工智能的未来》,Jeff Hawkins;<br>
-+ 《为什么：关于因果关系的新科学》, 朱迪亚·珀尔 / 达纳·麦肯齐;<br>
++ 《皇帝的新脑》, Roger Penrose ;<br>
++ 《人工智能的未来》,Jeff Hawkins ;<br>
++ 《为什么：关于因果关系的新科学》, 朱迪亚·珀尔 / 达纳·麦肯齐 ;<br>
 #### Lecture-02: Automatic Differentiation and PyTorch Programming;<br>
 +  Introducing automatic differentiation technique and its application scenarios.
 +  Introducing the PyTorch automatic differentiation programming platform.
@@ -87,7 +87,7 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 
 ## Sources
 
-  + 《深度学习原理与PyTorch实战（第2版）》 http://product.dangdang.com/29396811.html;<br>
-  + 《深度学习(deep learning)》 http://product.dangdang.com/25111382.html;<br>
-  + 《The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition》 http://product.dangdang.com/27440239.html;<br>
+  + 《深度学习原理与PyTorch实战（第2版）》 http://product.dangdang.com/29396811.html ;<br>
+  + 《深度学习(deep learning)》 http://product.dangdang.com/25111382.html ;<br>
+  + 《The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition》 http://product.dangdang.com/27440239.html ;<br>
   
