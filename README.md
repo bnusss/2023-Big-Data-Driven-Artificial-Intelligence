@@ -12,9 +12,9 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  *Machine intelligence, Nature 521, 435 (28 May 2015).* &nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.nature.com/articles/521435a)&nbsp;&nbsp;|
 +  *Prediction and its limits, SCIENCE, 3 Feb 2017, Vol 355, Issue 6324 pp. 468-469.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.science.org/doi/10.1126/science.355.6324.468)&nbsp;&nbsp;|
 +  *AI TRANSFORMS SCIENCE, SCIENCE, VOLUME 357, ISSUE 6346, 7 JUL 2017.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.science.org/toc/science/357/6346)&nbsp;&nbsp;|
-+ 《皇帝的新脑》, Roger Penrose ;<br>
-+ 《人工智能的未来》, Jeff Hawkins ;<br>
-+ 《为什么：关于因果关系的新科学》, 朱迪亚·珀尔 / 达纳·麦肯齐 *;<br>
++ _《皇帝的新脑》, Roger Penrose_ ;<br>
++ _《人工智能的未来》, Jeff Hawkins_ ;<br>
++ _《为什么：关于因果关系的新科学》, 朱迪亚·珀尔 / 达纳·麦肯齐_ ;<br>
 #### Lecture-02: Automatic Differentiation and PyTorch Programming;<br>
 +  Introducing automatic differentiation technique and its application scenarios.
 +  Introducing the PyTorch automatic differentiation programming platform.
