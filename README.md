@@ -19,9 +19,9 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Introducing automatic differentiation technique and its application scenarios.
 +  Introducing the PyTorch automatic differentiation programming platform.
 +  Providing an example of using PyTorch.
-+  [Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/abs/1502.05767)“  ”[Code](https://paperswithcode.com/paper/automatic-differentiation-in-machine-learning)
-+  [Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs](https://arxiv.org/abs/2004.07300)“  ”[Code](https://github.com/bnusss/GSO)
-+  [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144) “  ”[Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel)
++  [Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/abs/1502.05767)    [Code](https://paperswithcode.com/paper/automatic-differentiation-in-machine-learning)
++  [Gumbel-softmax-based Optimization: A Simple General Framework for Optimization Problems on Graphs](https://arxiv.org/abs/2004.07300)    [Code](https://github.com/bnusss/GSO)
++  [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144)    [Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel)
 #### Lecture-03: Fundamentals of Machine Learning;<br>
 +  What is machine learning and what are its simple classifications? 
 +  What are the basic steps of machine learning? 
