@@ -30,7 +30,7 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Performance evaluation and common issues in machine learning. 
 +  Introduction to simple feedforward neural networks and backpropagation algorithm.
 +  References<br>
-&nbsp;- *A high-bias, low-variance introduction to Machine Learning for physicists*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1803.08823) |&nbsp;&nbsp;[Code1](https://github.com/drckf/mlreview_notebooks)&nbsp;&nbsp;|&nbsp;&nbsp;[Code2](https://github.com/alexandreday/fast_density_clustering))&nbsp;&nbsp;|<br>
+&nbsp;- *A high-bias, low-variance introduction to Machine Learning for physicists*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1803.08823) |&nbsp;&nbsp;[Code1](https://github.com/drckf/mlreview_notebooks)&nbsp;&nbsp;|&nbsp;&nbsp;[Code2](https://github.com/alexandreday/fast_density_clustering)&nbsp;&nbsp;|<br>
 #### Lecture-04: Common Neural Network Architectures;<br>
 +  Basic and common neural network architectures and programming practices such as feedforward neural networks, convolutional neural networks, and recurrent neural networks. 
 +  Classification problems and practices in image processing and natural language processing.
