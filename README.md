@@ -51,26 +51,26 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  The difference between generative models and predictive models.
 +  Classification of generative models.
 +  Introduction to generative models, including GANs, VAEs, Normalizing Flow, and Diffusion Model.
-#### Lecture-08: Data-Driven Modeling of Complex Systems;<br>
-+  Introduction to complex systems.
-+  Modeling methods for complex systems.
-+  Data-driven modeling methods for complex systems.
-+  Complete closed loop system including decision-making and feedback.
-+  Learning causal relationships.
-+  Reinforcement learning framework based on world models.
-#### Lecture-09: Graph Neural Networks;<br>
-+  Graph and Network.
-+  Basic principles of Graph Neural Networks.
-+  Basic applications of Graph Neural Networks.
-+  Node classification.
-+  Data-driven modeling of complex systems based on Graph Neural Networks.
-#### Lecture-10: From Transformer to ChatGPT;<br>
+#### Lecture-08: From Transformer to ChatGPT;<br>
 +  Attention mechanism.
 +  Self-attention mechanism and network structure learning.
 +  Introduction to Transformer architecture.
 +  Applications of Transformer.
 +  Self-supervised learning mechanism based on language models.
 +  Introduction to architectures such as BERT, GPT-3, and ChatGPT.
+#### Lecture-09: Graph Neural Networks;<br>
++  Graph and Network.
++  Basic principles of Graph Neural Networks.
++  Basic applications of Graph Neural Networks.
++  Node classification.
++  Data-driven modeling of complex systems based on Graph Neural Networks.
+#### Lecture-10: Data-Driven Modeling of Complex Systems;<br>
++  Introduction to complex systems.
++  Modeling methods for complex systems.
++  Data-driven modeling methods for complex systems.
++  Complete closed loop system including decision-making and feedback.
++  Learning causal relationships.
++  Reinforcement learning framework based on world models.
 #### Lecture-11: Causal Machine Learning;<br>
 +  Causation and Correlation.
 +  Introduction to Causal Inference.
