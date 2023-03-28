@@ -41,6 +41,15 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Pre-training and transfer learning.
 +  Examples of transfer learning in image tasks.
 +  Introduction to word embedding techniques and their applications.
++  References<br>
+&nbsp;- *Learning Word Representations by Jointly Modeling Syntagmatic and Paradigmatic Relations*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](http://ofey.me/papers/wordrep_acl2015.pdf) |&nbsp;&nbsp;[Code](https://github.com/FeiSun/WordRep)&nbsp;&nbsp;|<br>
+&nbsp;- *Efficient Estimation of Word Representations in Vector Space*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1301.3781)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/efficient-estimation-of-word-representations)&nbsp;&nbsp;|<br>
+&nbsp;- *Distributed Representations of Words and Phrases and their Compositionality*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/pdf/1310.4546.pdf)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/distributed-representations-of-words-and-1)&nbsp;&nbsp;|<br>
+&nbsp;- *The Geometry of Culture: Analyzing Meaning through Word Embeddings*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1803.09288)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/the-geometry-of-culture-analyzing-meaning)&nbsp;&nbsp;|<br>
+&nbsp;- *Semantics derived automatically from language corpora contain human-like biases*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1803.09288)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/semantics-derived-automatically-from-language)&nbsp;&nbsp;|<br>
+&nbsp;- *Word embeddings quantify 100 years of gender and ethnic stereotypes*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.pnas.org/doi/10.1073/pnas.1720347115)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/word-embeddings-quantify-100-years-of-gender)&nbsp;&nbsp;|<br>
+&nbsp;- *Combining satellite imagery and machine learning to predict poverty*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.science.org/doi/10.1126/science.aaf7894)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/nealjean/predicting-poverty)&nbsp;&nbsp;|&nbsp;&nbsp;[Website](http://sustain.stanford.edu/predicting-poverty)&nbsp;&nbsp;|<br>
+&nbsp;- *Fighting poverty with data*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.science.org/doi/10.1126/science.aah5217)&nbsp;&nbsp;|<br>
 #### Lecture-06: From Deep Neural Networks to Neural ODE;<br>
 +  Numerical algorithms for solving ordinary differential equations.
 +  Residual networks.
