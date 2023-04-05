@@ -56,10 +56,34 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Principles of Neural ODE.
 +  Application examples.
 +  Optimal control and adjoint algorithm.
++  References<br>
+&nbsp;- *Theory and Applications of AlexNet Convolutional Neural Network*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://zhuanlan.zhihu.com/p/116197079) |<br>
+&nbsp;- *Very Deep Convolutional Networks for Large-Scale Image Recognition*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1409.1556)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/very-deep-convolutional-networks-for-large)&nbsp;&nbsp;|<br>
+&nbsp;- *FractalNet: Ultra-Deep Neural Networks without Residuals*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1605.07648)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/fractalnet-ultra-deep-neural-networks-without)&nbsp;&nbsp;|<br>
+&nbsp;- *Deep Residual Learning for Image Recognition*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1512.03385)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/deep-residual-learning-for-image-recognition)&nbsp;&nbsp;|<br>
+&nbsp;- *Identity Mappings in Deep Residual Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1603.05027)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/KaimingHe/resnet-1k-layers)&nbsp;&nbsp;|<br>
+&nbsp;- *Neural Ordinary Differential Equations*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/pdf/1806.07366.pdf)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/rtqichen/torchdiffeq)&nbsp;&nbsp;|<br>
+&nbsp;- *An empirical study of neural ordinal differential equations*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://linjianma.github.io/pdf/282_project_report_ode.pdf
+)&nbsp;&nbsp;|&nbsp;&nbsp;[Code1]( https://github.com/rtqichen/torchdiffeq
+)&nbsp;&nbsp;|&nbsp;&nbsp;[Code2](https://github.com/igfox/multi-output-glucose-forecasting
+)&nbsp;&nbsp;|&nbsp;&nbsp;[Poster](https://linjianma.github.io/pdf/282_ODE_poster.pdf)&nbsp;&nbsp;|<br>
+&nbsp;- *Deep Multi-Output Forecasting: Learning to Accurately Predict Blood Glucose Trajectories*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1806.05357)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/igfox/multi-output-glucose-forecasting)&nbsp;&nbsp;|<br>
 #### Lecture-07: Overview of Generative Models;<br>
 +  The difference between generative models and predictive models.
 +  Classification of generative models.
 +  Introduction to generative models, including GANs, VAEs, Normalizing Flow, and Diffusion Model.
++  References<br>
+&nbsp;- *3D Image Generation with Diffusion Models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link1](https://3d-diffusion.github.io)&nbsp;&nbsp;|&nbsp;&nbsp;[Link2](https://dreamfusion3d.github.io)&nbsp;&nbsp;|<br>
+&nbsp;- *Generative chemistry: drug discovery with deep learning generative models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://link.springer.com/article/10.1007/s00894-021-04674-8)&nbsp;&nbsp;|<br>
+&nbsp;- *Human-instructed Deep Hierarchical Generative Learning for Automated Urban Planning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/pdf/2212.00904v1.pdf)&nbsp;&nbsp;|&nbsp;&nbsp;[Website](https://deepai.org/publication/human-instructed-deep-hierarchical-generative-learning-for-automated-urban-planning)&nbsp;&nbsp;|<br>
+&nbsp;- *FractalNet: Ultra-Deep Neural Networks without Residuals*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1605.07648)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/fractalnet-ultra-deep-neural-networks-without)&nbsp;&nbsp;|<br>
+&nbsp;- *Generative Models in Deep Learning. In: Synthetic Data for Deep Learning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://link.springer.com/book/10.1007/978-3-030-75178-4)&nbsp;&nbsp;|<br>
+&nbsp;- *Generative Adversarial Nets*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1406.2661)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/goodfeli/adversarial)&nbsp;&nbsp;|<br>
+&nbsp;- *An overview of gradient descent optimization algorithms*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/pdf/1609.04747.pdf)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/an-overview-of-gradient-descent-optimization)&nbsp;&nbsp;|<br>
+&nbsp;- *Conditional Generative Adversarial Nets*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1411.1784)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/conditional-generative-adversarial-nets)&nbsp;&nbsp;|<br>
+&nbsp;- *Generative Adversarial Text to Image Synthesis*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1605.05396)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/reedscot/icml2016)&nbsp;&nbsp;|<br>
+&nbsp;- *Image-to-Image Translation with Conditional Adversarial Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1611.07004)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/phillipi/pix2pix)&nbsp;&nbsp;|<br>
+&nbsp;- *Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1703.10593)&nbsp;&nbsp;|&nbsp;&nbsp;[Code1](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)&nbsp;&nbsp;|&nbsp;&nbsp;[Code2](https://github.com/junyanz/CycleGAN)&nbsp;&nbsp;|<br>
 #### Lecture-08: From Transformer to ChatGPT;<br>
 +  Attention mechanism.
 +  Self-attention mechanism and network structure learning.
