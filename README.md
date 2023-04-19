@@ -72,7 +72,7 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  The difference between generative models and predictive models.
 +  Classification of generative models.
 +  Introduction to generative models, including GANs, VAEs, Normalizing Flow, and Diffusion Model.
-+  References<br>
++  References I<br>
 &nbsp;- *3D Image Generation with Diffusion Models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link1](https://3d-diffusion.github.io)&nbsp;&nbsp;|&nbsp;&nbsp;[Link2](https://dreamfusion3d.github.io)&nbsp;&nbsp;|<br>
 &nbsp;- *Generative chemistry: drug discovery with deep learning generative models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://link.springer.com/article/10.1007/s00894-021-04674-8)&nbsp;&nbsp;|<br>
 &nbsp;- *Human-instructed Deep Hierarchical Generative Learning for Automated Urban Planning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/pdf/2212.00904v1.pdf)&nbsp;&nbsp;|&nbsp;&nbsp;[Website](https://deepai.org/publication/human-instructed-deep-hierarchical-generative-learning-for-automated-urban-planning)&nbsp;&nbsp;|<br>
@@ -84,6 +84,19 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 &nbsp;- *Generative Adversarial Text to Image Synthesis*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1605.05396)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/reedscot/icml2016)&nbsp;&nbsp;|<br>
 &nbsp;- *Image-to-Image Translation with Conditional Adversarial Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1611.07004)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/phillipi/pix2pix)&nbsp;&nbsp;|<br>
 &nbsp;- *Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1703.10593)&nbsp;&nbsp;|&nbsp;&nbsp;[Code1](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)&nbsp;&nbsp;|&nbsp;&nbsp;[Code2](https://github.com/junyanz/CycleGAN)&nbsp;&nbsp;|<br>
++  References II<br>
+&nbsp;- *What are Diffusion Models?*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)&nbsp;&nbsp;|<br>
+&nbsp;- *From Autoencoder to Beta-VAE*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://lilianweng.github.io/posts/2018-08-12-vae/)&nbsp;&nbsp;|<br>
+&nbsp;- *UC Berkeley -- Spring 2020 -- Deep Unsupervised Learning -- Pieter Abbeel, Peter Chen, Jonathan Ho, Aravind Srinivas, Alex Li, Wilson Yan -- L3 Flows*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://www.bilibili.com/video/BV1i741187Dp?p=3)&nbsp;&nbsp;|<br>
+&nbsp;- *Density estimation using Real NVP*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1605.08803)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/density-estimation-using-real-nvp)&nbsp;&nbsp;|<br>
+&nbsp;- *Deep Unsupervised Learning using Nonequilibrium Thermodynamics*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1503.03585)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models)&nbsp;&nbsp;|<br>
+&nbsp;- *Generative Modeling by Estimating Gradients of the Data Distribution*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1907.05600)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/ermongroup/ncsn)&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://yang-song.net/blog/2021/score/)&nbsp;&nbsp;|<br>
+&nbsp;- *Denoising Diffusion Probabilistic Models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2006.11239)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/hojonathanho/diffusion)&nbsp;&nbsp;|<br>
+&nbsp;- *U-Net: Convolutional Networks for Biomedical Image Segmentation*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.cs.helsinki.fi/u/ahyvarin/papers/JMLR05.pdf)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/u-net-convolutional-networks-for-biomedical)&nbsp;&nbsp;|<br>
+&nbsp;- *Learning Transferable Visual Models From Natural Language Supervision*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2103.00020)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/openai/CLIP)&nbsp;&nbsp;|<br>
+&nbsp;- *Hierarchical Text-Conditional Image Generation with CLIP Latents*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2204.06125)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/hierarchical-text-conditional-image)&nbsp;&nbsp;|<br>
+&nbsp;- *A Survey on Generative Diffusion Model*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2209.02646)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)&nbsp;&nbsp;|<br>
+&nbsp;- *Diffusion Models: A Comprehensive Survey of Methods and Applications*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2209.00796)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)&nbsp;&nbsp;|<br>
 #### Lecture-08: From Transformer to ChatGPT;<br>
 +  Attention mechanism.
 +  Self-attention mechanism and network structure learning.
