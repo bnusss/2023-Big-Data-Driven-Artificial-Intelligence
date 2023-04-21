@@ -104,6 +104,24 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Applications of Transformer.
 +  Self-supervised learning mechanism based on language models.
 +  Introduction to architectures such as BERT, GPT-3, and ChatGPT.
++  References<br>
+&nbsp;- *Sparks of Artificial General Intelligence: Early experiments with GPT-4*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2303.12712)&nbsp;&nbsp;|<br>
+&nbsp;- *Learning Word Representations by Jointly Modeling Syntagmatic and Paradigmatic Relations*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://aclanthology.org/P15-1014.pdf)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/FeiSun/WordRep)&nbsp;&nbsp;|<br>
+&nbsp;- *Convolutional Sequence to Sequence Learning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1705.03122)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/facebookresearch/fairseq)&nbsp;&nbsp;|<br>
+&nbsp;- *Attention Is All You Need*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1706.03762)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/tensorflow/tensor2tensor)&nbsp;&nbsp;|<br>
+&nbsp;- *Neural Phrase-based Machine Translation*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1706.05565v2)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/posenhuang/NPMT)&nbsp;&nbsp;|<br>
+&nbsp;- *从word2vec开始，说下GPT庞大的家族系谱*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://cloud.tencent.com/developer/article/1731421)&nbsp;&nbsp;|<br>
+&nbsp;- *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1810.04805)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/google-research/bert)&nbsp;&nbsp;|<br>
+&nbsp;- *Improving Language Understanding by Generative Pre-Training*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/improving-language-understanding-by#code)&nbsp;&nbsp;|<br>
+&nbsp;- *Improving Language Understanding by Generative Pre-Training*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2204.07705)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/allenai/natural-instructions)&nbsp;&nbsp;|<br>
+&nbsp;- *人工反馈的强化学习*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://zhuanlan.zhihu.com/p/596059221)&nbsp;&nbsp;|<br>
+&nbsp;- *Scaling Laws for Neural Language Models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2001.08361)&nbsp;&nbsp;|<br>
+&nbsp;- *137 emergent abilities of large language models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://www.jasonwei.net/blog/emergence)&nbsp;&nbsp;|<br>
+&nbsp;- *A Survey on In-context Learning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2301.00234)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/dqxiu/icl_paperlist)&nbsp;&nbsp;|<br>
+&nbsp;- *Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2212.10559)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/microsoft/lmops)&nbsp;&nbsp;|<br>
+&nbsp;- *Prompt Engineering: 循循善诱*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://zhuanlan.zhihu.com/p/526299013)&nbsp;&nbsp;|<br>
+&nbsp;- *通向 ChatGPT 及 AGI 的未解之谜*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://pattern.swarma.org/study_group_issue/409)&nbsp;&nbsp;|<br>
+&nbsp;- *ChatGPT平替工具介绍*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://pattern.swarma.org/study_group_issue/451)&nbsp;&nbsp;|<br>
 #### Lecture-09: Graph Neural Networks;<br>
 +  Graph and Network.
 +  Basic principles of Graph Neural Networks.
