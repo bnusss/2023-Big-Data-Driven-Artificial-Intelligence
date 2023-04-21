@@ -113,7 +113,7 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 &nbsp;- *从word2vec开始，说下GPT庞大的家族系谱*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://cloud.tencent.com/developer/article/1731421)&nbsp;&nbsp;|<br>
 &nbsp;- *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1810.04805)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/google-research/bert)&nbsp;&nbsp;|<br>
 &nbsp;- *Improving Language Understanding by Generative Pre-Training*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/improving-language-understanding-by#code)&nbsp;&nbsp;|<br>
-&nbsp;- *Improving Language Understanding by Generative Pre-Training*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2204.07705)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/allenai/natural-instructions)&nbsp;&nbsp;|<br>
+&nbsp;- *Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2204.07705)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/allenai/natural-instructions)&nbsp;&nbsp;|<br>
 &nbsp;- *人工反馈的强化学习*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://zhuanlan.zhihu.com/p/596059221)&nbsp;&nbsp;|<br>
 &nbsp;- *Scaling Laws for Neural Language Models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2001.08361)&nbsp;&nbsp;|<br>
 &nbsp;- *137 emergent abilities of large language models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://www.jasonwei.net/blog/emergence)&nbsp;&nbsp;|<br>
