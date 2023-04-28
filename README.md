@@ -128,13 +128,6 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Basic applications of Graph Neural Networks.
 +  Node classification.
 +  Data-driven modeling of complex systems based on Graph Neural Networks.
-#### Lecture-10: Data-Driven Modeling of Complex Systems;<br>
-+  Introduction to complex systems.
-+  Modeling methods for complex systems.
-+  Data-driven modeling methods for complex systems.
-+  Complete closed loop system including decision-making and feedback.
-+  Learning causal relationships.
-+  Reinforcement learning framework based on world models.
 +  References I<br>
 &nbsp;- *A Comprehensive Survey on Graph Neural Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1901.00596)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/a-comprehensive-survey-on-graph-neural)&nbsp;&nbsp;|<br>
 &nbsp;- *Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2104.13478)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/geometric-deep-learning-grids-groups-graphs)&nbsp;&nbsp;|<br>
@@ -150,6 +143,14 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 &nbsp;- *Graph Attention Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1710.10903)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/PetarV-/GAT)&nbsp;&nbsp;|<br>
 &nbsp;- *The Emerging Field of Signal Processing on Graphs: Extending High-Dimensional Data Analysis to Networks and Other Irregular Domains*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1211.0053#:~:text=The%20emerging%20field%20of%20signal%20processing%20on%20graphs,harmonic%20analysis%20to%20process%20such%20signals%20on%20graphs.)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/epfl-lts2/pygsp)&nbsp;&nbsp;|<br>
 &nbsp;- *Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1606.09375)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/mdeff/cnn_graph)&nbsp;&nbsp;|<br>
+
+#### Lecture-10: Data-Driven Modeling of Complex Systems;<br>
++  Introduction to complex systems.
++  Modeling methods for complex systems.
++  Data-driven modeling methods for complex systems.
++  Complete closed loop system including decision-making and feedback.
++  Learning causal relationships.
++  Reinforcement learning framework based on world models.
 
 #### Lecture-11: Causal Machine Learning;<br>
 +  Causation and Correlation.
