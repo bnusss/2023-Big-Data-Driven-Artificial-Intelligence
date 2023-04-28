@@ -135,6 +135,22 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Complete closed loop system including decision-making and feedback.
 +  Learning causal relationships.
 +  Reinforcement learning framework based on world models.
++  References I<br>
+&nbsp;- *A Comprehensive Survey on Graph Neural Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1901.00596)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/a-comprehensive-survey-on-graph-neural)&nbsp;&nbsp;|<br>
+&nbsp;- *Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2104.13478)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/geometric-deep-learning-grids-groups-graphs)&nbsp;&nbsp;|<br>
+&nbsp;- *DeepWalk: Online Learning of Social Representations*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1403.6652)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/deepwalk-online-learning-of-social)&nbsp;&nbsp;|<br>
+&nbsp;- *node2vec: Scalable Feature Learning for Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1607.00653)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/aditya-grover/node2vec)&nbsp;&nbsp;|<br>
+&nbsp;- *Complex Network Classification with Convolutional Neural Network*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1802.00539v2)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/cnc_2017)&nbsp;&nbsp;|<br>
+&nbsp;- *struc2vec: Learning Node Representations from Structural Identity*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1704.03165)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/leoribeiro/struc2vec)&nbsp;&nbsp;|<br>
+&nbsp;- *From Node Embedding To Community Embedding : A Hyperbolic Approach*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1907.01662)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/learning-graph-structured-data-using-poincare)&nbsp;&nbsp;|<br>
+&nbsp;- *Knowledge graph embedding by translating on hyperplanes*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://dl.acm.org/doi/10.5555/2893873.2894046)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/knowledge-graph-embedding-by-translating-on)&nbsp;&nbsp;|<br>
+&nbsp;- *Deep Sets*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1703.06114)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/deep-sets)&nbsp;&nbsp;|<br>
+&nbsp;- *Deep Sets*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1703.06114)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/deep-sets)&nbsp;&nbsp;|<br>
+&nbsp;- *GRAPH CONVOLUTIONAL NETWORKS*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://tkipf.github.io/graph-convolutional-networks/)&nbsp;&nbsp;|<br>
+&nbsp;- *Graph Attention Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1710.10903)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/PetarV-/GAT)&nbsp;&nbsp;|<br>
+&nbsp;- *The Emerging Field of Signal Processing on Graphs: Extending High-Dimensional Data Analysis to Networks and Other Irregular Domains*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1211.0053#:~:text=The%20emerging%20field%20of%20signal%20processing%20on%20graphs,harmonic%20analysis%20to%20process%20such%20signals%20on%20graphs.)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/epfl-lts2/pygsp)&nbsp;&nbsp;|<br>
+&nbsp;- *Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1606.09375)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/mdeff/cnn_graph)&nbsp;&nbsp;|<br>
+
 #### Lecture-11: Causal Machine Learning;<br>
 +  Causation and Correlation.
 +  Introduction to Causal Inference.
