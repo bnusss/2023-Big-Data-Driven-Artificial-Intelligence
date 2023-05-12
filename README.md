@@ -188,7 +188,6 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 &nbsp;- *Estimates and 25-year trends of the global burden of disease attributable to ambient air pollution: an analysis of data from the Global Burden of Diseases Study 2015.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.sciencedirect.com/science/article/pii/S0140673617305056)&nbsp;&nbsp;|<br>
 &nbsp;- *Learning to Simulate Complex Physics with Graph Networks.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2002.09405)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate)&nbsp;&nbsp;|<br>
 &nbsp;- *Learning to Simulate Complex Physics with Graph Networks.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2002.09405)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate)&nbsp;&nbsp;|<br>
->>>>>>> 350ee74 (Upload Files)
 #### Lecture-10: Data-Driven Modeling of Complex Systems;<br>
 +  Introduction to complex systems.
 +  Modeling methods for complex systems.
@@ -196,13 +195,9 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Complete closed loop system including decision-making and feedback.
 +  Learning causal relationships.
 +  Reinforcement learning framework based on world models.
-<<<<<<< HEAD
-
-=======
 +  References<br>
 &nbsp;- *Investigating time, strength, and duration of measures in controlling the spread of COVID-19 using a networked meta-population model*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://link.springer.com/article/10.1007/s11071-020-05769-2)&nbsp;&nbsp;|<br>
 &nbsp;- *Generative Diffusion Models on Graphs: Methods and Applications*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2302.02591)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/generative-diffusion-models-on-graphs-methods)&nbsp;&nbsp;|<br>
->>>>>>> 350ee74 (Upload Files)
 #### Lecture-11: Causal Machine Learning;<br>
 +  Causation and Correlation.
 +  Introduction to Causal Inference.
