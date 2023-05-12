@@ -138,11 +138,57 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 &nbsp;- *From Node Embedding To Community Embedding : A Hyperbolic Approach*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1907.01662)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/learning-graph-structured-data-using-poincare)&nbsp;&nbsp;|<br>
 &nbsp;- *Knowledge graph embedding by translating on hyperplanes*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://dl.acm.org/doi/10.5555/2893873.2894046)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/knowledge-graph-embedding-by-translating-on)&nbsp;&nbsp;|<br>
 &nbsp;- *Deep Sets*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1703.06114)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/deep-sets)&nbsp;&nbsp;|<br>
+<<<<<<< HEAD
+=======
+&nbsp;- *Deep Sets*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1703.06114)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/deep-sets)&nbsp;&nbsp;|<br>
+>>>>>>> 350ee74 (Upload Files)
 &nbsp;- *GRAPH CONVOLUTIONAL NETWORKS*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://tkipf.github.io/graph-convolutional-networks/)&nbsp;&nbsp;|<br>
 &nbsp;- *Graph Attention Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1710.10903)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/PetarV-/GAT)&nbsp;&nbsp;|<br>
 &nbsp;- *The Emerging Field of Signal Processing on Graphs: Extending High-Dimensional Data Analysis to Networks and Other Irregular Domains*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1211.0053#:~:text=The%20emerging%20field%20of%20signal%20processing%20on%20graphs,harmonic%20analysis%20to%20process%20such%20signals%20on%20graphs.)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/epfl-lts2/pygsp)&nbsp;&nbsp;|<br>
 &nbsp;- *Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1606.09375)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/mdeff/cnn_graph)&nbsp;&nbsp;|<br>
+<<<<<<< HEAD
 
+=======
++  References II<br>
+&nbsp;- *Variational Graph Auto-Encoders*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1611.07308)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/tkipf/gae)&nbsp;&nbsp;|<br>
+&nbsp;- *VGAE（Variational graph auto-encoders）论文详解*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://zhuanlan.zhihu.com/p/78340397)&nbsp;&nbsp;|<br>
+&nbsp;- *Learning Universal Network Representation via Link Prediction by Graph Convolutional Neural Network*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://ieeexplore.ieee.org/document/9355034)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/DeepLinker)&nbsp;&nbsp;|<br>
+&nbsp;- *Discovering latent node Information by graph attention network*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.nature.com/articles/s41598-021-85826-x)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/DeepLinker)&nbsp;&nbsp;|<br>
+&nbsp;- *Graph Attention Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1710.10903)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/PetarV-/GAT)&nbsp;&nbsp;|<br>
+&nbsp;- *Network Completion: Beyond Matrix Completion*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://ieeexplore.ieee.org/document/9334012)&nbsp;&nbsp;|<br>
+&nbsp;- *Kronecker graphs: An Approach to Modeling Network*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/0812.4905)&nbsp;&nbsp;|<br>
+&nbsp;- *The Network Completion Problem: Inferring Missing Nodes and Edges in Networks*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1710.10903)&nbsp;&nbsp;|<br>
+&nbsp;- *Completing Networks by Learning Local Connection Patterns*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2204.11852)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/3riccc/C-GIN)&nbsp;&nbsp;|<br>
+&nbsp;- *How Powerful are Graph Neural Networks?*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1810.00826)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/weihua916/powerful-gnns)&nbsp;&nbsp;|<br>
+&nbsp;- *Generative Graph Convolutional Network for Growing Graphs*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1903.02640)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/generative-graph-convolutional-network-for)&nbsp;&nbsp;|<br>
+&nbsp;- *DeepNC: Deep Generative Network Completion*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://ieeexplore.ieee.org/document/9229516)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/congasix/DeepNC)&nbsp;&nbsp;|<br>
+&nbsp;- *A Systematic Survey on Deep Generative Models for Graph Generation*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://ieeexplore.ieee.org/document/9920219)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/a-systematic-survey-on-deep-generative-models)&nbsp;&nbsp;|<br>
+&nbsp;- *GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1802.08773)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/snap-stanford/GraphRNN)&nbsp;&nbsp;|<br>
+&nbsp;- *A Survey on Deep Graph Generation: Methods and Applications*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2203.06714)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/a-survey-on-deep-graph-generation-methods-and)&nbsp;&nbsp;|<br>
+&nbsp;- *Graph Normalizing Flows*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1905.13177)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/jliu/graph-normalizing-flows)&nbsp;&nbsp;|<br>
+&nbsp;- *UC Berkeley -- Spring 2020 -- Deep Unsupervised Learning -- Pieter Abbeel, Peter Chen, Jonathan Ho, Aravind Srinivas, Alex Li, Wilson Yan -- L3 Flows*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://sites.google.com/view/berkeley-cs294-158-sp20/home)&nbsp;&nbsp;|<br>
+&nbsp;- *Density estimation using Real NVP*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1605.08803)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/density-estimation-using-real-nvp)&nbsp;&nbsp;|<br>
+&nbsp;- *Takens's theorem*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://en.wikipedia.org/wiki/Takens's_theorem)&nbsp;&nbsp;|<br>
+&nbsp;- *Deep Multi-Output Forecasting: Learning to Accurately Predict Blood Glucose Trajectories*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.kdd.org/kdd2018/accepted-papers/view/deep-multi-output-forecasting-learning-to-accurately-predict-blood-glucose-)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/igfox/multi-output-glucose-forecasting)&nbsp;&nbsp;|<br>
+&nbsp;- *Reservoir computing*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://en.wikipedia.org/wiki/Reservoir_computing)&nbsp;&nbsp;|<br>
+&nbsp;- *Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach..&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1905.13177)&nbsp;&nbsp;|<br>
+&nbsp;- *PM2.5-GNN: A Domain Knowledge Enhanced Graph Neural Network For PM2.5 Forecasting*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://dl.acm.org/doi/abs/10.1145/3397536.3422208)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/PM2.5-GNN)&nbsp;&nbsp;|<br>
+&nbsp;- *Universal framework for reconstructing complex networks and node dynamics from discrete or continuous dynamics data*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034315)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/AIDD)&nbsp;&nbsp;|<br>
+&nbsp;- *Universal framework for reconstructing complex networks and node dynamics from discrete or continuous dynamics data*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034315)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/AIDD)&nbsp;&nbsp;|<br>
+&nbsp;- *A General Deep Learning Framework for Network Reconstruction and Dynamics Learning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1812.11482v3)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/GGN)&nbsp;&nbsp;|<br>
+&nbsp;- *Categorical Reparameterization with Gumbel-Softmax*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1611.01144)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/categorical-reparameterization-with-gumbel)&nbsp;&nbsp;|<br>
+&nbsp;- *Model-free inference of direct network interactions from nonlinear collective dynamics*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.nature.com/articles/s41467-017-02288-4)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/networkinference/ARNI)&nbsp;&nbsp;|<br>
+&nbsp;- *Neural Relational Inference for Interacting Systems*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1802.04687)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/ethanfetaya/nri)&nbsp;&nbsp;|<br>
+&nbsp;- *Discovering latent node Information by graph attention network.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.nature.com/articles/s41598-021-85826-x)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/DeepLinker)&nbsp;&nbsp;|<br>
+&nbsp;- *HighAir: A Hierarchical Graph Neural Network-Based Air Quality Forecasting Method.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2101.04264v1)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/Friger/HighAir)&nbsp;&nbsp;|<br>
+&nbsp;- *Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2206.13028)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/czhaneva/mst-gcn)&nbsp;&nbsp;|<br>
+&nbsp;- *Graph U-Nets.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1905.05178)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/HongyangGao/Graph-U-Nets)&nbsp;&nbsp;|<br>
+&nbsp;- *U-Net: Convolutional Networks for Biomedical Image Segmentation.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1505.04597)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/u-net-convolutional-networks-for-biomedical)&nbsp;&nbsp;|<br>
+&nbsp;- *Deep Learning for Prediction of the Air Quality Response to Emission Changes.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://pubs.acs.org/doi/10.1021/acs.est.0c02923)&nbsp;&nbsp;|<br>
+&nbsp;- *Estimates and 25-year trends of the global burden of disease attributable to ambient air pollution: an analysis of data from the Global Burden of Diseases Study 2015.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.sciencedirect.com/science/article/pii/S0140673617305056)&nbsp;&nbsp;|<br>
+&nbsp;- *Learning to Simulate Complex Physics with Graph Networks.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2002.09405)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate)&nbsp;&nbsp;|<br>
+&nbsp;- *Learning to Simulate Complex Physics with Graph Networks.*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2002.09405)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate)&nbsp;&nbsp;|<br>
+>>>>>>> 350ee74 (Upload Files)
 #### Lecture-10: Data-Driven Modeling of Complex Systems;<br>
 +  Introduction to complex systems.
 +  Modeling methods for complex systems.
@@ -150,7 +196,13 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Complete closed loop system including decision-making and feedback.
 +  Learning causal relationships.
 +  Reinforcement learning framework based on world models.
+<<<<<<< HEAD
 
+=======
++  References<br>
+&nbsp;- *Investigating time, strength, and duration of measures in controlling the spread of COVID-19 using a networked meta-population model*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://link.springer.com/article/10.1007/s11071-020-05769-2)&nbsp;&nbsp;|<br>
+&nbsp;- *Generative Diffusion Models on Graphs: Methods and Applications*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2302.02591)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/generative-diffusion-models-on-graphs-methods)&nbsp;&nbsp;|<br>
+>>>>>>> 350ee74 (Upload Files)
 #### Lecture-11: Causal Machine Learning;<br>
 +  Causation and Correlation.
 +  Introduction to Causal Inference.
