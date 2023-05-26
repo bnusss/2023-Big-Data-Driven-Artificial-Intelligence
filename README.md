@@ -198,6 +198,35 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Introduction to Causal Inference.
 +  Introduction to Causal Discovery.
 +  Causal Representation Learning.
++  References I<br>
+&nbsp;- *Judea Pearl: The Book of Why, 2019*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](http://bayes.cs.ucla.edu/WHY/)&nbsp;&nbsp;|<br>
+&nbsp;- *Towards Causal Representation Learning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2102.11107)&nbsp;&nbsp;|<br>
+&nbsp;- *Judea Pearl: Causality, 2009*&nbsp;&nbsp;|&nbsp;&nbsp;[Link](http://bayes.cs.ucla.edu/BOOK-2K/)&nbsp;&nbsp;|<br>
+&nbsp;- *总结梳理结构因果模型并剖析其与潜在结果模型的关系*&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://campus.swarma.org/course/3226)&nbsp;&nbsp;|<br>
++  References II<br>
+&nbsp;- *Causality and model abstraction.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://dl.acm.org/doi/abs/10.1016/0004-3702%2894%2990014-0)&nbsp;&nbsp;|<br>
+&nbsp;- *Causal Machine Learning: A Survey and Open Problems.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2206.15475)&nbsp;&nbsp;|<br>
+&nbsp;- *漫谈因果表征学习*&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://pattern.swarma.org/study_group_issue/289)&nbsp;&nbsp;|<br>
+&nbsp;- *Elements of Causal Inference - Foundations and Learning Algorithms.*&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://ei.is.mpg.de/publications/petjansch17)&nbsp;&nbsp;|<br>
+&nbsp;- *因果发现介绍及 Tetrad 工具包使用教程*&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://campus.swarma.org/course/3217)&nbsp;&nbsp;|<br>
+&nbsp;- *Introduction to Causal Inference.*&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://www.bradyneal.com/causal-inference-course)&nbsp;&nbsp;|<br>
+&nbsp;- *Estimating High-Dimensional Directed Acyclic Graphs with the PC-Algorithm.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://jmlr.org/papers/volume8/kalisch07a/kalisch07a.pdf)&nbsp;&nbsp;|<br>Review of Causal Discovery Methods Based on Graphical Models
+&nbsp;- *Review of Causal Discovery Methods Based on Graphical Models.*&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)&nbsp;&nbsp;|<br>
+&nbsp;- *Universal framework for reconstructing complex networks and node dynamics from discrete or continuous dynamics data*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034315)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/AIDD)&nbsp;&nbsp;|<br>
+&nbsp;- *Causal feature learning: an overview*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://link.springer.com/article/10.1007/s41237-016-0008-2)&nbsp;&nbsp;|<br>
+&nbsp;- *漫谈因果表征学习*&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://pattern.swarma.org/study_group_issue/289)&nbsp;&nbsp;|<br>
+&nbsp;- *A Tutorial on Independent Component Analysis.*&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://arxiv.org/pdf/1404.2986.pdf)&nbsp;&nbsp;|<br>
+&nbsp;- *Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1605.06336#:~:text=Unsupervised%20Feature%20Extraction%20by%20Time-Contrastive%20Learning%20and%20Nonlinear,the%20models%20proposed%20so%20far%20are%20not%20identifiable.)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/unsupervised-feature-extraction-by-time)&nbsp;&nbsp;|<br>
+&nbsp;- *Causal Discovery with General Non-Linear Relationships Using Non-Linear ICA*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1904.09096)&nbsp;&nbsp;|<br>
+&nbsp;- *Variational Autoencoders and Nonlinear ICA: A Unifying Framework*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1907.04809#:~:text=Variational%20Autoencoders%20and%20Nonlinear%20ICA%3A%20A%20Unifying%20Framework,marginal%20distribution%20over%20observed%20variables%20fits%20the%20data.)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/variational-autoencoders-and-nonlinear-ica-a)&nbsp;&nbsp;|<br>
+&nbsp;- *稳定学习 Stable Learning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://wiki.swarma.org/index.php/稳定学习_Stable_Learning)&nbsp;&nbsp;|<br>
+&nbsp;- *A theory of independent mechanisms for extrapolation in generative models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2004.00184)&nbsp;&nbsp;|<br>
+&nbsp;- *Types and Forms of Emergence*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/nlin/0506028)&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://wiki.cas-group.net/index.php?title=Emergence#:~:text=Types%20and%20Forms%201%201.%20Simple%2FNominal%20Emergence%20%28Type,...%204%204.%20Strong%20Emergence%20%28Type%20IV%29%20)&nbsp;&nbsp;|<br>
+&nbsp;- *Quantifying causal emergence shows that macro can beat micro*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.pnas.org/doi/10.1073/pnas.1314922110)&nbsp;&nbsp;|<br>
+&nbsp;- *When the map is better than the territory*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1612.09592)&nbsp;&nbsp;|<br>
+&nbsp;- *Neural Information Squeezer for Causal Emergence*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://doi.org/10.3390/e25010026)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/NIS_for_Causal_Emergence)&nbsp;&nbsp;|<br>
+&nbsp;- *Neural Information Squeezer for Causal Emergence*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://doi.org/10.3390/e25010026)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/bnusss/NIS_for_Causal_Emergence)&nbsp;&nbsp;|<br>
+
 #### Lecture-12: Reinforcement Learning;<br>
 +  Basic framework of reinforcement learning.
 +  Classification of reinforcement learning.
