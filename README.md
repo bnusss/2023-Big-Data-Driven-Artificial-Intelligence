@@ -233,6 +233,26 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Reinforcement learning algorithms based on the World Model.
 +  Causality and reinforcement learning.
 +  Reinforcement learning and control/decision-making.
++  References<br>
+&nbsp;- *Integrated architecture for learning, planning, and reacting based on approximating dynamic programming*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://dl.acm.org/doi/10.5555/101883.102055)&nbsp;&nbsp;|<br>
+&nbsp;- *Kinds of RL Algorithms*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html)&nbsp;&nbsp;|<br>
+&nbsp;- *Mastering the game of Go with deep neural networks and tree search*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.nature.com/articles/nature16961)&nbsp;&nbsp;|<br>
+&nbsp;- *什么是动态规划（Dynamic Programming）？动态规划的意义是什么？*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://www.zhihu.com/question/23995189)&nbsp;&nbsp;|<br>
+&nbsp;- *Human-level control through deep reinforcement learning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://www.nature.com/articles/nature14236)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/human-level-control-through-deep#code)&nbsp;&nbsp;|<br>
+&nbsp;- *因果强化学习 | 因果科学与Causal AI读书会*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://swarma.org/?p=22222)&nbsp;&nbsp;|<br>
+&nbsp;- *Off-Policy Evaluation in Partially Observable Environments*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://aaai.org/papers/10276-off-policy-evaluation-in-partially-observable-environments/)&nbsp;&nbsp;|<br>
+&nbsp;- *Causal Confusion in Imitation Learning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://proceedings.neurips.cc/paper/2019/file/947018640bf36a2bb609d3557a285329-Paper.pdf)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/causal-confusion-in-imitation-learning)&nbsp;&nbsp;|<br>
+&nbsp;- *Woulda, Coulda, Shoulda: Counterfactually-Guided Policy Search*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1811.06272)&nbsp;&nbsp;|<br>
+&nbsp;- *Causal Discovery with Reinforcement Learning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1906.04477)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/huawei-noah/trustworthyAI)&nbsp;&nbsp;|<br>
+&nbsp;- *Causal Machine Learning: A Survey and Open Problems*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2206.15475)&nbsp;&nbsp;|<br>
+&nbsp;- *Towards Causal Representation Learning*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2102.11107)&nbsp;&nbsp;|<br>
+&nbsp;- *The Book of Why*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](http://bayes.cs.ucla.edu/WHY/)&nbsp;&nbsp;|<br>
+&nbsp;- *World Models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1803.10122)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://paperswithcode.com/paper/world-models)&nbsp;&nbsp;|<br>
+&nbsp;- *Dream to Control: Learning Behaviors by Latent Imagination*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/1912.01603)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/danijar/dreamer)&nbsp;&nbsp;|<br>
+&nbsp;- *Mastering Diverse Domains through World Models*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2301.04104)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/danijar/dreamerv3)&nbsp;&nbsp;|<br>
+&nbsp;- *Separating the World and Ego Models for Self-Driving*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2204.07184)&nbsp;&nbsp;|&nbsp;&nbsp;[Code](https://github.com/vladisai/pytorch-ppuu)&nbsp;&nbsp;|<br>
+&nbsp;- *《思考，快与慢》*.&nbsp;&nbsp;|&nbsp;&nbsp;[Link](https://book.douban.com/subject/10785583/)&nbsp;&nbsp;|<br>
+&nbsp;- *Goedel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements*.&nbsp;&nbsp;|&nbsp;&nbsp;[Paper](https://arxiv.org/pdf/cs/0309048.pdf)&nbsp;&nbsp;|<br>
 
 ## Sources
 
